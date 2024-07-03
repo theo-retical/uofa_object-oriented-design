@@ -111,5 +111,6 @@ This version of the app should accommodate the new contacts feature. In particul
 - Owners are now required to select a contact to be the borrower of an item when changing the status of an item from “Available” to “Borrowed”. That is, it is no longer sufficient to enter the borrower’s username as a string -- now the borrower must be
 - picked from the owner’s list of contacts.
 
-<<Contacts Code>>
-<<Contacts List Code>>
+[Contact.java](Contact.java)
+
+[ContactList.java](ContactList.java)
